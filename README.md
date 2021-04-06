@@ -8,9 +8,11 @@ Download the file tmap.lua
 
 Add this to the start of the code:
 
-´´´lua
+```lua
+
 require "tmap"
-´´´
+
+```
 
 And that is it!
 
